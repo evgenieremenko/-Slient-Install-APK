@@ -1,0 +1,183 @@
+<resources>
+	<!-- Default screen margins, per the Android Design guidelines. -->
+	<dimen name="activity_horizontal_margin">16dp</dimen>
+
+	<dimen name="pad_2dp">3px</dimen>
+	<dimen name="pad_3dp">5px</dimen>
+	<dimen name="pad_5dp">8px</dimen>
+	<dimen name="pad_10dp">16px</dimen>
+	<dimen name="pad_15dp">24px</dimen>
+	<dimen name="pad_20dp">32px</dimen>
+	<dimen name="pad_30dp">50px</dimen>
+	<dimen name="pad_40dp">64px</dimen>
+	<dimen name="pad_50dp">80px</dimen>
+	<dimen name="pad_60dp">96px</dimen>
+
+	<dimen name="pad_neg_15dp">-15dp</dimen>
+
+	<dimen name="font_7sp">12px</dimen>
+	<dimen name="font_12sp">18px</dimen>
+	<dimen name="font_13sp">20px</dimen>
+	<dimen name="font_14sp">22px</dimen>
+	<dimen name="font_15sp">24px</dimen>
+	<dimen name="font_16sp">26px</dimen>
+	<dimen name="font_17sp">28px</dimen>
+	<dimen name="font_18sp">29px</dimen>
+	<dimen name="font_20sp">32px</dimen>
+	<dimen name="font_24sp">36px</dimen>
+	<dimen name="font_25sp">40px</dimen>
+	<dimen name="font_30sp">48px</dimen>
+
+	<dimen name="height_item_channel">69px</dimen>
+	<dimen name="height_item_topic">70px</dimen>		<!--  height_item_topic = height_item_channel + 1  -->
+	<dimen name="height_line">2px</dimen>
+	<dimen name="height_optiontab">120px</dimen>
+	<dimen name="height_tabbar">40px</dimen>
+    <dimen name="height_topbar">45px</dimen>
+
+	<dimen name="width_channel_number">53px</dimen>
+	<dimen name="width_item_number">80px</dimen>
+	<dimen name="width_item_time">400px</dimen>
+	<dimen name="width_item_timeline">200px</dimen>
+	<dimen name="width_option_list">225px</dimen>
+	<dimen name="width_option_list_neg">-225px</dimen>
+	<dimen name="width_option_line">7px</dimen>
+	<dimen name="width_option_slider_container">490px</dimen>
+	<dimen name="width_option_tab">45px</dimen>
+	<dimen name="width_seekbar">12px</dimen>
+	<dimen name="width_tab">150px</dimen>
+	<dimen name="width_titlebar_time">225px</dimen>
+
+	<dimen name="size_channel_show">105px</dimen>
+
+	<!--    -->
+	<dimen name="pad_top_category_image">15px</dimen>
+	<dimen name="pad_bottom_category_image">22px</dimen>
+	<dimen name="pad_right_category_image">20px</dimen>
+	<dimen name="pad_left_category_image">10px</dimen>
+
+	<dimen name="margin_bottom_title_image">30px</dimen>
+	<dimen name="width_title_image">150px</dimen>
+	<dimen name="height_title_image">30px</dimen>
+
+	<dimen name="pad_wheel_horizontal">15px</dimen>
+	<dimen name="width_wheel_vertical">375px</dimen>
+
+	<dimen name="pad_top_logo_image">15px</dimen>
+	<dimen name="pad_bottom_logo_image">15px</dimen>
+	<dimen name="pad_right_logo_image">36px</dimen>
+	<dimen name="pad_left_logo_image">45px</dimen>
+
+	<dimen name="pad_bottom_text_clock">22px</dimen>
+	<dimen name="font_text_clock">90px</dimen>
+	<dimen name="active_font_text_clock">45px</dimen>
+	<dimen name="pad_left_livetv_container">22px</dimen>
+	<dimen name="pad_right_livetv_container">45px</dimen>
+
+	<dimen name="width_wheel_horizontal_text">265px</dimen>
+	<dimen name="font_wheel_horizontal_text">33px</dimen>
+	<dimen name="pad_top_wheel_horizontal_text">22px</dimen>
+
+	<dimen name="pad_top_wheel_vertical_text">18px</dimen>
+	<dimen name="pad_bottom_wheel_vertical_text">18px</dimen>
+	<dimen name="font_wheel_vertical_text">30px</dimen>
+	<dimen name="font_wheel_fullscreen_text">45px</dimen>
+
+	<dimen name="width_image_tab">45px</dimen>
+
+	<dimen name="font_apk_version">27px</dimen>
+	<dimen name="font_box_id">27px</dimen>
+
+	<dimen name="margin_bottom_apk_version">60px</dimen>
+	<dimen name="margin_bottom_box_id">15px</dimen>
+
+	<dimen name="width_channel_image">250px</dimen>
+	<dimen name="hieght_channel_image">250px</dimen>
+
+	<dimen name="margin_bottom_menu_text">18px</dimen>
+	<dimen name="margin_top_menu_text">18px</dimen>
+
+
+	<dimen name="margin_back">45px</dimen>
+	<dimen name="txtsize_title">50px</dimen>
+	<dimen name="txtsize_text">40px</dimen>
+	<dimen name="txtsize_text1">30px</dimen>
+	<dimen name="txtsize_text2">35px</dimen>
+	<dimen name="edittext_padding">8px</dimen>
+	<dimen name="text_margin">15px</dimen>
+
+	<dimen name="account_height">680px</dimen>
+	<dimen name="account_imagesize">40px</dimen>
+	<dimen name="account_itemheight">60px</dimen>
+	<dimen name="account_title">80px</dimen>
+	<dimen name="account_clock">70px</dimen>
+	<dimen name="account_subtitle">50px</dimen>
+	<dimen name="account_text0">35px</dimen>
+	<dimen name="account_text1">30px</dimen>
+	<dimen name="account_text2">24px</dimen>
+	<dimen name="account_text3">18px</dimen>
+
+	<dimen name="height_tab_weekday">45px</dimen>
+	<dimen name="height_timeline">80px</dimen>
+	<dimen name="height_edttext">60px</dimen>
+	<dimen name="width_edttext">350px</dimen>
+    <dimen name="width_btn">400px</dimen>
+	<dimen name="width_edttext1">150px</dimen>
+    <dimen name="width_edttext2">200px</dimen>
+	<dimen name="width_seekbox">200px</dimen>
+	<dimen name="height_seekbox">90px</dimen>
+	<dimen name="popup_width">250px</dimen>
+	<dimen name="popup_height">80px</dimen>
+
+	<dimen name="ms__padding_left">24dp</dimen>
+	<dimen name="ms__padding_top">12dp</dimen>
+	<dimen name="ms__item_height">48dp</dimen>
+	<dimen name="ms__popup_padding_left">24dp</dimen>
+	<dimen name="ms__popup_padding_top">12dp</dimen>
+
+	<dimen name="dimen_200px">200px</dimen>
+	<dimen name="dimen_100px">100px</dimen>
+	<dimen name="dimen_150px">150px</dimen>
+	<dimen name="dimen_10px">10px</dimen>
+	<dimen name="dimen_50px">50px</dimen>
+	<dimen name="dimen_380px">380px</dimen>
+	<dimen name="dimen_45px">45px</dimen>
+	<dimen name="dimen_15px">15px</dimen>
+	<dimen name="dimen_30px">30px</dimen>
+	<dimen name="dimen_1600px">1600px</dimen>
+	<dimen name="dimen_170px">170px</dimen>
+	<dimen name="dimen_1px">1px</dimen>
+	<dimen name="dimen_2px">2px</dimen>
+	<dimen name="dimen_20px">20px</dimen>
+	<dimen name="dimen_40px">40px</dimen>
+	<dimen name="dimen_5px">5px</dimen>
+	<dimen name="dimen_400px">400px</dimen>
+	<dimen name="dimen_550px">550px</dimen>
+	<dimen name="dimen_250px">250px</dimen>
+	<dimen name="dimen_105px">105px</dimen>
+	<dimen name="dimen_8px">8px</dimen>
+	<dimen name="dimen_60px">60px</dimen>
+	<dimen name="dimen_3px">3px</dimen>
+	<dimen name="dimen_26px">26px</dimen>
+	<dimen name="dimen_n8px">-8px</dimen>
+	<dimen name="dimen_n4px">-4px</dimen>
+	<dimen name="dimen_18px">18px</dimen>
+	<dimen name="dimen_12px">12px</dimen>
+	<dimen name="dimen_270px">270px</dimen>
+	<dimen name="dimen_275px">275px</dimen>
+	<dimen name="dimen_70px">70px</dimen>
+	<dimen name="dimen_25px">25px</dimen>
+	<dimen name="dimen_13px">13px</dimen>
+	<dimen name="dimen_90px">90px</dimen>
+	<dimen name="dimen_110px">110px</dimen>
+	<dimen name="dimen_210px">210px</dimen>
+	<dimen name="dimen_130px">130px</dimen>
+	<dimen name="dimen_35px">35px</dimen>
+	<dimen name="dimen_450px">450px</dimen>
+	<dimen name="dimen_600px">600px</dimen>
+	<dimen name="dimen_500px">500px</dimen>
+	<dimen name="dimen_180px">180px</dimen>
+	<dimen name="dimen_80px">80px</dimen>
+	<dimen name="dimen_24px">24px</dimen>
+	<dimen name="dimen_234px">234px</dimen>
+</resources>
